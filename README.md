@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oreki-san</h1>
 <h3 align="center">| Learner | Student |</h3>
-
+https://tenor.com/view/sad-look-stare-blink-boy-gif-17668553
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oreki-san&label=Profile%20views&color=0e75b6&style=flat" alt="oreki-san" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oreki-san" alt="oreki-san" /></a> </p>
