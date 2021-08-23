@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Different devlopers**
 
-- 📫 How to reach me **oreki6901@gmail.com**
+- 📫 How to reach me **oreki6901@gmail.com** **wa.me/919002370263 for whatsapp**
 
 - ⚡ Fun fact **Thanks for visit**
 
