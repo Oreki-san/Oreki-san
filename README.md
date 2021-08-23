@@ -11,13 +11,16 @@
 
 - 🤝 I’m looking for help with **Different devlopers**
 
-- 📫 How to reach me **oreki6901@gmail.com** **919002370263 for whatsapp**
+- 📫 How to reach me **919002370263 for whatsapp**
 
 - ⚡ Fun fact **Thanks for visit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@haremgodoreki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@haremgodoreki" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_oreki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_oreki" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/oreki san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oreki san" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/2nMQn7SD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2nMQn7SD" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,5 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oreki-san&show_icons=true&locale=en" alt="oreki-san" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oreki-san&" alt="oreki-san" /></p>
-
 
