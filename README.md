@@ -12,7 +12,7 @@ src="https://64.media.tumblr.com/ec45fba910433a6fecba96ffc1dbeca3/2dcf740a871aa1
 
 - 🤝 I’m looking for help with **Different devlopers**
 
-- 📫 How to reach me **919002370263 for whatsapp**
+- 📫 How to reach me **"wa.me/919002370263" for whatsapp**
 
 - ⚡ Fun fact **Thanks for visit**
 
