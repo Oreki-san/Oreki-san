@@ -6,8 +6,6 @@ src="https://64.media.tumblr.com/ec45fba910433a6fecba96ffc1dbeca3/2dcf740a871aa1
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oreki-san" alt="oreki-san" /></a> </p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
-
 
 - 🔭 I’m currently working on **Civil engineering**
 
