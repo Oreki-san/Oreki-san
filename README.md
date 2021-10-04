@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oreki-san</h1>
 
 <h3 align="center">| Learner | Student |</h3>
+
 <img
 
 src="https://64.media.tumblr.com/ec45fba910433a6fecba96ffc1dbeca3/2dcf740a871aa1ad-95/s540x810/976e6af3466b630b01671f43e0f14c5b5f4b67f3.gifv"
