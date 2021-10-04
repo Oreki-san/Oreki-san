@@ -1,13 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm Oreki-san</h1>
-
 <h3 align="center">| Learner | Student |</h3>
-
 <img
 src="https://64.media.tumblr.com/ec45fba910433a6fecba96ffc1dbeca3/2dcf740a871aa1ad-95/s540x810/976e6af3466b630b01671f43e0f14c5b5f4b67f3.gifv"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oreki-san&label=Profile%20views&color=0e75b6&style=flat" alt="oreki-san" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oreki-san" alt="oreki-san" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+"><img src="https://github-profile-trophy.vercel.app/?username=oreki-san" alt="oreki-san" /></a> </p>
+
 
 - 🔭 I’m currently working on **Civil engineering**
 
