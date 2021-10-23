@@ -40,7 +40,7 @@ src="https://64.media.tumblr.com/ec45fba910433a6fecba96ffc1dbeca3/2dcf740a871aa1
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oreki-san&show_icons=true&locale=en" alt="oreki-san" /></p>
 
-![Oreki stats](https://next-github-tau.vercel.app/api/card?username=Oreki)
+[![Oreki stats](https://next-github-tau.vercel.app/api/card?username=Oreki)](https://github.com/Oreki-san)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oreki-san&" alt="oreki-san" /></p>
 
