@@ -8,7 +8,7 @@ src="https://64.media.tumblr.com/ec45fba910433a6fecba96ffc1dbeca3/2dcf740a871aa1
 "><img src="https://github-profile-trophy.vercel.app/?username=oreki-san" alt="oreki-san" /></a> </p>
 
 
-- 🔭 I’m currently working on **Civil engineering**
+- 🔭 I’m currently working on **Civil engineering,typescript and react**
 
 - 🌱 I’m currently learning **Everything**
 
