@@ -16,7 +16,7 @@ src="https://64.media.tumblr.com/ec45fba910433a6fecba96ffc1dbeca3/2dcf740a871aa1
 
 - 📫 How to reach me **oreki6901@gmail.com**
 
-- ⚡ Fun fact **I am noob**
+- ⚡ Fun fact **I like music,sports,anime and you**
 
 <h3 align="left">Connect with me:</h3>
 
