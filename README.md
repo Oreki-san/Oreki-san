@@ -45,6 +45,7 @@ src="https://user-images.githubusercontent.com/77143046/142734177-0c9651f0-4696-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oreki-san&" alt="oreki-san" /></p>
 
+![Metrics](/github-metrics.svg)
 
 
 
