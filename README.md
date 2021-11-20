@@ -18,6 +18,8 @@ src="https://user-images.githubusercontent.com/77143046/142734177-0c9651f0-4696-
 
 - ⚡ Fun fact **I like music,sports,anime and you**
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8wo8ohnvmd4c2x5dryz7mh1ee&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
