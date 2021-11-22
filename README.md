@@ -18,7 +18,7 @@ src="https://user-images.githubusercontent.com/77143046/142734177-0c9651f0-4696-
 
 - ⚡ Fun fact **I like music,sports,anime and you**
 
-![spotify](IMG_20211122_144719](https://user-images.githubusercontent.com/77143046/142834753-1dca608c-b5e1-4250-a846-3d552df73dac.jpg)(https://open.spotify.com/track/5aZYyAIBmLSXTlez59ZvZ7)
+![spotify](https://user-images.githubusercontent.com/77143046/142834753-1dca608c-b5e1-4250-a846-3d552df73dac.jpg)(https://open.spotify.com/track/5aZYyAIBmLSXTlez59ZvZ7)
 
 <h3 align="left">Connect with me:</h3>
 
